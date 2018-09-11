@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf8'?>
+<Data>
+	<Book>
+		<书名>python1</书名>
+		<作者>wu</作者>
+		<出版社>北京</出版社>
+		<价格>60</价格>
+	</Book>
+	<Book>
+		<书名>python2</书名>
+		<作者>yan</作者>
+		<出版社>上海</出版社>
+		<价格>80</价格>
+	</Book>
+	</Data>
